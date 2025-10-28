@@ -43,15 +43,15 @@ Example:
 HabitTracker/
 ├── HabitTracker.sln
 ├── HabitTracker/
-│ ├── Form1.vb # Login & Signup
-│ ├── Form2.vb # Dashboard
-│ ├── Form3.vb # Habit management
-│ ├── loginconfirm.vb # Logout confirmation popup
-│ ├── CustomPopup.vb # Replaces MessageBox
-│ ├── bin/
-│ │ └── Debug/
-│ │ └── sign up.accdb # Database file
-│ └── ...
+│   ├── Form1.vb              # Login & Signup
+│   ├── Form2.vb              # Dashboard
+│   ├── Form3.vb              # Habit management
+│   ├── loginconfirm.vb       # Logout confirmation popup
+│   ├── CustomPopup.vb        # Replaces MessageBox
+│   ├── bin/
+│   │   └── Debug/
+│   │       └── sign up.accdb # Database file
+│   └── ...
 
 ---
 
