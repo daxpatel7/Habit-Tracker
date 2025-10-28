@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+habit tracker
+</name>
+</assembly>
+<members>
+<member name="T:habit_tracker.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources._53465__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources._55480__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources._57304">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources._57305">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources._57383">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_1__2025__07_35_08_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_2__2025__09_24_26_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_2__2025__09_44_19_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_2__2025__09_49_19_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_3__2025__11_11_54_AM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_3_2025_11_11_54_AM_optimized">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_3_2025_11_11_54_AM_optimized1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_5__2025__10_12_12_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_5__2025__10_12_12_PM__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_5__2025__10_12_12_PM__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_5__2025__10_12_12_PM__1_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.ChatGPT_Image_Aug_8__2025__05_57_06_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.gradient">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.gradient__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.gradient__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.graphic_progression">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.logo__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.logo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.Picsart_25_08_02_21_56_49_701">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.profile_user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:habit_tracker.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

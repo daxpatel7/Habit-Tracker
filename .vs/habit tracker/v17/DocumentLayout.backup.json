@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\habit tracker\\habit tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|f:\\habit tracker\\habit tracker\\habit tracker\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\loginconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\loginconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\loginconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\loginconfirm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\form3.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\form3.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\verificationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\verificationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\timepickerpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\timepickerpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\habitnamepopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\habitnamepopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\edithabitpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\edithabitpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\deleteconfirmpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\deleteconfirmpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\timepickerpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\timepickerpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\edithabitpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\edithabitpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\habitnamepopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\habitnamepopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|habit tracker||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\verificationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\verificationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\chatgpt_image_aug_3_2025_11_11_54_am_optimized.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\chatgpt_image_aug_3_2025_11_11_54_am_optimized.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|F:\\habit tracker\\habit tracker\\habit tracker\\deleteconfirmpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46B696F1-B179-4865-8504-01F8F6C2D6B1}|habit tracker\\habit tracker.vbproj|solutionrelative:habit tracker\\deleteconfirmpopup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\Form2.vb",
+              "RelativeDocumentMoniker": "habit tracker\\Form2.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\Form2.vb",
+              "RelativeToolTip": "habit tracker\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T13:20:28.391Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChatGPT_Image_Aug_3_2025_11_11_54_AM_optimized.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\ChatGPT_Image_Aug_3_2025_11_11_54_AM_optimized.ico",
+              "RelativeDocumentMoniker": "habit tracker\\ChatGPT_Image_Aug_3_2025_11_11_54_AM_optimized.ico",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\ChatGPT_Image_Aug_3_2025_11_11_54_AM_optimized.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-09-22T12:05:51.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerificationForm.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\VerificationForm.vb",
+              "RelativeDocumentMoniker": "habit tracker\\VerificationForm.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\VerificationForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-22T12:05:13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "loginconfirm.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\loginconfirm.vb",
+              "RelativeDocumentMoniker": "habit tracker\\loginconfirm.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\loginconfirm.vb",
+              "RelativeToolTip": "habit tracker\\loginconfirm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-29T12:42:58.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loginconfirm.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\loginconfirm.vb",
+              "RelativeDocumentMoniker": "habit tracker\\loginconfirm.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\loginconfirm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-29T12:37:51.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\Form3.vb",
+              "RelativeDocumentMoniker": "habit tracker\\Form3.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\Form3.vb",
+              "RelativeToolTip": "habit tracker\\Form3.vb",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAANcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T13:43:05.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\App.config",
+              "RelativeDocumentMoniker": "habit tracker\\App.config",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\App.config",
+              "RelativeToolTip": "habit tracker\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-22T12:05:56.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VerificationForm.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\VerificationForm.vb",
+              "RelativeDocumentMoniker": "habit tracker\\VerificationForm.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\VerificationForm.vb",
+              "RelativeToolTip": "habit tracker\\VerificationForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-22T15:54:42.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HabitNamePopup.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\HabitNamePopup.vb",
+              "RelativeDocumentMoniker": "habit tracker\\HabitNamePopup.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\HabitNamePopup.vb",
+              "RelativeToolTip": "habit tracker\\HabitNamePopup.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-29T12:36:51.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\Form4.vb",
+              "RelativeDocumentMoniker": "habit tracker\\Form4.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\Form4.vb",
+              "RelativeToolTip": "habit tracker\\Form4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-29T12:28:23.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "habit tracker",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\habit tracker.vbproj",
+              "RelativeDocumentMoniker": "habit tracker\\habit tracker.vbproj",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\habit tracker.vbproj",
+              "RelativeToolTip": "habit tracker\\habit tracker.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-09T13:30:15.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\Form4.vb",
+              "RelativeDocumentMoniker": "habit tracker\\Form4.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-09T12:12:30.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\Form2.vb",
+              "RelativeDocumentMoniker": "habit tracker\\Form2.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-08T06:52:47.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\Form1.vb",
+              "RelativeDocumentMoniker": "habit tracker\\Form1.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-08T06:52:16.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteConfirmPopup.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\DeleteConfirmPopup.vb",
+              "RelativeDocumentMoniker": "habit tracker\\DeleteConfirmPopup.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\DeleteConfirmPopup.vb",
+              "RelativeToolTip": "habit tracker\\DeleteConfirmPopup.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-08T05:10:46.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteConfirmPopup.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\DeleteConfirmPopup.vb",
+              "RelativeDocumentMoniker": "habit tracker\\DeleteConfirmPopup.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\DeleteConfirmPopup.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-08T05:02:42.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditHabitPopup.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\EditHabitPopup.vb",
+              "RelativeDocumentMoniker": "habit tracker\\EditHabitPopup.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\EditHabitPopup.vb",
+              "RelativeToolTip": "habit tracker\\EditHabitPopup.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-08T04:59:13.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HabitNamePopup.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\HabitNamePopup.vb",
+              "RelativeDocumentMoniker": "habit tracker\\HabitNamePopup.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\HabitNamePopup.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-08T04:51:21.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditHabitPopup.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\EditHabitPopup.vb",
+              "RelativeDocumentMoniker": "habit tracker\\EditHabitPopup.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\EditHabitPopup.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-08T04:51:12.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimePickerPopup.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\TimePickerPopup.vb",
+              "RelativeDocumentMoniker": "habit tracker\\TimePickerPopup.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\TimePickerPopup.vb",
+              "RelativeToolTip": "habit tracker\\TimePickerPopup.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA8wAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T14:16:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.Designer.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\Form3.Designer.vb",
+              "RelativeDocumentMoniker": "habit tracker\\Form3.Designer.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\Form3.Designer.vb",
+              "RelativeToolTip": "habit tracker\\Form3.Designer.vb",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T13:38:17.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\Form1.vb",
+              "RelativeDocumentMoniker": "habit tracker\\Form1.vb",
+              "ToolTip": "F:\\habit tracker\\habit tracker\\habit tracker\\Form1.vb",
+              "RelativeToolTip": "habit tracker\\Form1.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T13:15:44.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\Form3.vb",
+              "RelativeDocumentMoniker": "habit tracker\\Form3.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T13:14:46.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimePickerPopup.vb [Design]",
+              "DocumentMoniker": "F:\\habit tracker\\habit tracker\\habit tracker\\TimePickerPopup.vb",
+              "RelativeDocumentMoniker": "habit tracker\\TimePickerPopup.vb",
+              "ToolTip": "C:\\Users\\aayus\\source\\repos\\habit tracker\\habit tracker\\habit tracker\\TimePickerPopup.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T13:14:45.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
