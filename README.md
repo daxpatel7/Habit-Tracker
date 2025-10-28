@@ -79,6 +79,7 @@ Dim dbPath As String = Path.Combine(Application.StartupPath, "sign up.accdb")
 👤 Author 
 
 Dax Rakholiya
+
 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/dax-rakholiya-908ab2289/)  
 💻 View more projects on [GitHub](https://github.com/daxpatel7)
 
