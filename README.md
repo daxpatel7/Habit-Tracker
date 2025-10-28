@@ -7,8 +7,6 @@ This project helps users build good habits, stay consistent, and get daily remin
 
 ## 📸 Screenshots
 
-*(Add some screenshots of your forms here — login, dashboard, popups, etc.)*  
-Example:
 ![Login Page](app.JPG)
 ![Dashboard](dashboard.JPG)
 
