@@ -40,7 +40,7 @@ Example:
 
 ## 🧩 Project Structure
 
-HabitTracker/
+```HabitTracker/
 ├── HabitTracker.sln
 ├── HabitTracker/
 │   ├── Form1.vb              # Login & Signup
@@ -51,8 +51,8 @@ HabitTracker/
 │   ├── bin/
 │   │   └── Debug/
 │   │       └── sign up.accdb # Database file
-│   └── ...
-
+│   └── ... 
+```
 ---
 
 ## ⚡ How to Run
