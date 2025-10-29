@@ -57,7 +57,7 @@ This project helps users build good habits, stay consistent, and get daily remin
 
 1. **Clone or Download** the repository:
    ```bash
-   git clone https://github.com/yourusername/HabitTracker.git
+   git clone https://github.com/daxpatel7/HabitTracker.git
 
 2. Open in Visual Studio
 
